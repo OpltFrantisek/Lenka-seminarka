@@ -9,8 +9,8 @@
 /*
   ssid a heslo k wifi
 */
-const char* ssid = "snek";
-const char* password = "hovnokleslo";
+const char* ssid = "....";
+const char* password = ".....";
 /*
   Nastaveni pro pripojeni k mqtt brokeru
 */
